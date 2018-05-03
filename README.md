@@ -1,2 +1,1 @@
-Welcome to Cact.io
-MERN application - A DIY web app 
+Welcome to Cact.io (MERN application - A DIY web app) 
